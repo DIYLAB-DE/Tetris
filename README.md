@@ -3,7 +3,9 @@
 
 Copyright (C) 2021 by DIYLAB <https://www.diylab.de>
 
-![](screenshots/tetris_01.jpg) ![](screenshots/tetris_02.jpg)
+![](screenshots/tetris_01.jpg) 
+
+![](screenshots/tetris_02.jpg)
 
 The idea itself comes from FrankBoesing's repository "[T3TRIS](https://github.com/FrankBoesing/T3TRIS)" - thanks for the suggestion!
 I ported this game to the Teensy 4.x and use Arvind's [ILI9341_T4](https://github.com/vindar/ILI9341_T4) display driver. 
